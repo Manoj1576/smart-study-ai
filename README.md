@@ -1,4 +1,4 @@
-# 🚀 Smart Study AI         
+# 🚀 Smart Study AI          
 
 A futuristic AI-powered study assistant that helps students learn smarter, faster, and more efficiently.
 
